@@ -1,0 +1,17 @@
+# Streamlit Projects:
+
+- [Avatar App]()
+- [Basketball Player Data Exploration App]()
+- [Bouston House Prediction App]()
+- [DNA App]()
+- [EDA App]()
+- [Football Player Data Exploration App]()
+- [Iris App]()
+- [Machine Learning App]()
+- [Pencil Sketch App]()
+- [Penguin Classification App]()
+- [Pomodoro App]()
+- [Sales Dashboard]()
+- [Speech-to-Text_Transcriber_App]()
+- [Stocks App]()
+- [Yahoo Finance Stocks App]()
