@@ -1,19 +1,34 @@
-# Courses:
----
+# Natural Language Processing
 
-## 1. [Exploratory Data Analysis](https://github.com/HanifaElahi/Courses/tree/main/Exploratory%20Data%20Analysis)
-- ### [EDA](https://github.com/HanifaElahi/Courses/tree/main/Exploratory%20Data%20Analysis/EDA)
-- ### [Automated EDA](https://github.com/HanifaElahi/Courses/tree/main/Exploratory%20Data%20Analysis/Automated_EDA)
-## 2.[NLP]()
-## 3. [Statistics]()
-## 4. [Streamlit](https://github.com/HanifaElahi/Courses/tree/main/Streamlit)
-## 5. [Data Visualization](https://github.com/HanifaElahi/Courses/tree/main/Data%20Visualizations)
-- ### [Matplotlib](https://github.com/HanifaElahi/Courses/tree/main/Data%20Visualizations/Matplotlib)
-- ### [Seaborn](https://github.com/HanifaElahi/Courses/tree/main/Data%20Visualizations/Seaborn)
-- ### [Plotly]()
-## 6. [Data Visualization Tools]()
-- ### [Power BI]()
-- ### [Tableau]()
-- ### [Data Studio]()
-## 7. [Firebase](https://github.com/HanifaElahi/Courses/tree/main/Firebase)
-## 8. [Web Scrapping](https://github.com/HanifaElahi/Courses/tree/main/Web%20Scrapping)
+## Content: 
+
+- [Installation]()
+- [Tokenization]()
+- [Stemming]()
+- [Lemmatization]()
+- [POS Tagging]()
+- [Chunking]()
+- [Chinking]()
+- [Named Entity Recognition]()
+- [Bag of Words]()
+- [TF-IDF]()
+- [Word2Vec]()
+- [Wordcloud]()
+- [Word Embeddings]()
+
+## Projects:
+
+- [Article Recommendation System]()
+- [Email Spam Detection]()
+- [Fake News Classifier]()
+- [Fake News Classifier LSTM]()
+- [google Search Analysis]()
+- [Hate Speech Detection]()
+- [Sentiment Analysis]()
+    - [Tweets]()
+    - [Womens Clothing E-Commerce Reviews]()
+- [Spam Classifier]()
+- [Stock Market Forecasting]()
+- [Stock Sentiment Analysis]()
+- [Text Summarization]()
+- [Topic Modeling]()
