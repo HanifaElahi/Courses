@@ -13,7 +13,7 @@
 - [Bag of Words](https://github.com/HanifaElahi/Courses/blob/main/NLP/9.%20Bag%20Of%20Words.ipynb)
 - [TF-IDF](https://github.com/HanifaElahi/Courses/blob/main/NLP/10.%20TF-IDF.ipynb)
 - [Word2Vec](https://github.com/HanifaElahi/Courses/blob/main/NLP/11.%20Word2Vec.ipynb)
-- [Wordcloud](https://github.com/HanifaElahi/Courses/blob/main/NLP/Wordcloud.ipynb)
+- [Word Cloud](https://github.com/HanifaElahi/Courses/blob/main/NLP/Wordcloud.ipynb)
 - [Word Embeddings](https://github.com/HanifaElahi/Courses/blob/main/NLP/12.%20Word%20Embeddings.ipynb)
 
 ## Projects:
@@ -32,4 +32,4 @@
 - [Stock Market Forecasting](https://github.com/HanifaElahi/Courses/tree/main/NLP/Stock%20Market%20Forecasting)
 - [Stock Sentiment Analysis](https://github.com/HanifaElahi/Courses/tree/main/NLP/Stock%20Sentiment%20Analysis)
 - [Text Summarization](https://github.com/HanifaElahi/Courses/tree/main/NLP/Text%20Summarization)
-- [Topic Modeling]()
+- [Topic Modeling](https://github.com/HanifaElahi/Courses/tree/main/NLP/Topic%20Modeling)
