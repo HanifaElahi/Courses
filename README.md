@@ -1,7 +1,7 @@
 # Courses
 
 - [Algorithmic Trading](https://github.com/HanifaElahi/Courses/tree/main/Algorithmic_Trading)
-- [Customer Segmentation]()
+- [Customer Segmentation](https://github.com/HanifaElahi/Courses/tree/main/Customer_Segmentation)
 - [Data Visualizations](https://github.com/HanifaElahi/Courses/tree/main/Data%20Visualizations)
 - [Exploratory Data Analysis](https://github.com/HanifaElahi/Courses/tree/main/Exploratory%20Data%20Analysis)
 - [Firebase](https://github.com/HanifaElahi/Courses/tree/main/Firebase)
