@@ -5,8 +5,8 @@
 - The future prediction will also include time as a variable, and the output will vary with time.
 - Using time-dependent data, you can find patterns that repeat over time.
 
-            **A Time Series is a set of observations that are collected after regular intervals of time.**
-            **If plotted, the Time series would always have one of its axes as time**
+            A Time Series is a set of observations that are collected after regular intervals of time.
+            If plotted, the Time series would always have one of its axes as time
 
 - Consider the running of a bakery. Given the data of the past few months, you can predict what items you need to bake at what time. The morning crowd would need more bread items, like bread rolls, croissants, breakfast muffins, etc. At night, people may come in to buy cakes and pastries or other dessert items. Using time series analysis, you can predict items popular during different times and even different seasons.
 
