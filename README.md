@@ -9,5 +9,5 @@
 - [ML Model for Deployment](https://github.com/HanifaElahi/Courses/tree/main/ML_Model_Deployment)
 - [Natural Language Processing](https://github.com/HanifaElahi/Courses/tree/main/NLP)
 - [Streamlit](https://github.com/HanifaElahi/Courses/tree/main/Streamlit)
-- [Time Series Analysis]()
+- [Time Series Analysis](https://github.com/HanifaElahi/Courses/tree/main/Time%20Series)
 - [Web Scrapping](https://github.com/HanifaElahi/Courses/tree/main/Web%20Scrapping)
