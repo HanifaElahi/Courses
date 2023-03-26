@@ -1,8 +1,10 @@
 # Courses
 
 - [Algorithmic Trading](https://github.com/HanifaElahi/Courses/tree/main/Algorithmic_Trading)
+- [C++ Projects](https://github.com/HanifaElahi/Courses-GuidedProjects/tree/main/C%2B%2B%20%20Projects)
 - [Customer Segmentation](https://github.com/HanifaElahi/Courses/tree/main/Customer_Segmentation)
 - [Data Visualizations](https://github.com/HanifaElahi/Courses/tree/main/Data%20Visualizations)
+- [Evolutionary Computing](https://github.com/HanifaElahi/Courses-GuidedProjects/tree/main/Evolutionary%20Computing)
 - [Exploratory Data Analysis](https://github.com/HanifaElahi/Courses/tree/main/Exploratory%20Data%20Analysis)
 - [Firebase](https://github.com/HanifaElahi/Courses/tree/main/Firebase)
 - [Google Data Studio](https://github.com/HanifaElahi/Courses/blob/main/Google%20Data%20Studio/README.md)
