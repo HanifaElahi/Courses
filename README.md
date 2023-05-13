@@ -9,6 +9,7 @@
 - [Exploratory Data Analysis](https://github.com/HanifaElahi/Courses/tree/main/Exploratory%20Data%20Analysis)
 - [Firebase](https://github.com/HanifaElahi/Courses/tree/main/Firebase)
 - [Google Data Studio](https://github.com/HanifaElahi/Courses/blob/main/Google%20Data%20Studio/README.md)
+- [H2O Rest API](https://github.com/HanifaElahi/Courses-GuidedProjects/tree/main/H2O%20RestAPI)
 - [Hugging Face](https://github.com/HanifaElahi/Courses/tree/main/Hugging_Face)
 - [Landmark Detetion](https://github.com/HanifaElahi/Courses-GuidedProjects/tree/main/Landmark%20Detection)
 - [MODE - SQL Tutorial for Data Analytics](https://github.com/HanifaElahi/Courses-GuidedProjects/tree/main/MODE%20-%20SQL_Tutorial_for_Data_Analytics)
