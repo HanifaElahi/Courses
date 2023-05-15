@@ -5,6 +5,7 @@
 - [CIFL Course Big Query](https://github.com/HanifaElahi/Courses-GuidedProjects/tree/main/CIFL_Course_BigQuery)
 - [Customer Segmentation](https://github.com/HanifaElahi/Courses/tree/main/Customer_Segmentation)
 - [Data Visualizations](https://github.com/HanifaElahi/Courses/tree/main/Data%20Visualizations)
+- [DL Assignments](https://github.com/HanifaElahi/Courses-GuidedProjects/tree/main/DL_Assignments)
 - [Evolutionary Computing](https://github.com/HanifaElahi/Courses-GuidedProjects/tree/main/Evolutionary%20Computing)
 - [Exploratory Data Analysis](https://github.com/HanifaElahi/Courses/tree/main/Exploratory%20Data%20Analysis)
 - [Firebase](https://github.com/HanifaElahi/Courses/tree/main/Firebase)
