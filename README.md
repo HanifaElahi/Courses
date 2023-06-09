@@ -16,6 +16,7 @@
 - [MODE - SQL Tutorial for Data Analytics](https://github.com/HanifaElahi/Courses-GuidedProjects/tree/main/MODE%20-%20SQL_Tutorial_for_Data_Analytics)
 - [ML Model for Deployment](https://github.com/HanifaElahi/Courses/tree/main/ML_Model_Deployment)
 - [Natural Language Processing](https://github.com/HanifaElahi/Courses/tree/main/NLP)
+- [Neo4j](https://github.com/HanifaElahi/Courses-GuidedProjects/tree/main/Neo4j)
 - [Paraphrasing](https://github.com/HanifaElahi/Courses/tree/main/Paraphrasing)
 - [PDF to txt](https://github.com/HanifaElahi/Courses-GuidedProjects/tree/main/PDF_to_txt)
 - [Route Selection](https://github.com/HanifaElahi/Courses/tree/main/Route%20Selection)
